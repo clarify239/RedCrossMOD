@@ -657,32 +657,6 @@ strong {
   transition: all 0.5s;
 }
 
-
-/*---------------------------------------
-  ABOUT              
------------------------------------------*/
-.about-section {
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  background-color: var(--secondary-color);
-}
-
-.about-image {
-  border-radius: var(--border-radius-medium);
-  display: block;
-  width: 350px;
-  height: 400px;
-  object-fit: cover;
-  margin-bottom: 20px;
-}
-
-.custom-text-block {
-  padding: 60px 40px;
-}
-
-
-
 /*---------------------------------------
   CONTACT               
 -----------------------------------------*/
@@ -1290,4 +1264,8 @@ strong {
 
 .officerDescription{
   color: rgb(256,256,256);
+}
+
+#section_3{
+  background-color: #835d5d;
 }
